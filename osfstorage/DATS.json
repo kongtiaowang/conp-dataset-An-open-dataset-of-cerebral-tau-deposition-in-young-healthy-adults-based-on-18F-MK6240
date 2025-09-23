@@ -1,0 +1,245 @@
+{
+  "title": "An open dataset of cerebral tau deposition in young healthy adults based on [18F]MK6240 positron emission tomography",
+  "description": "Tauopathies are a collection of diseases wherein hyperphosphorylated tau aggregates in the central nervous system leading to neural toxicity and degeneration.\n\nPostiron emission tomography (PET) is a powerful tool to study tauopathies in vivo. Second generation radiotracers such as [18F]MK6240 have the benefit of high cell permeability, high affinity for neurofibrillary tangles, and reduced off target binding compared to its predecessors.\n\nWhile tauopathies are classically seen in older individuals (eg. Alzheimer's disease), a number of tauopathies affect patients across the lifespan, including chronic traumatic encephalopathy, epilepsy, and Niemann-Pick disease type C, thus highlighting the need for normative imaging data in non-geriatric populations.\n\nHere, we present a dataset of 33 young to middle-aged healthy adults with [18F]MK6240 PET and T1w MRI. Longitudinal data are available in 9. We include raw PET and MRI vlumes, MRI152 transformation matrices, cerebellar grey matter and composite (whole cerebellum, brainstem, and eroded subcortical white matter) reference regions and partial volume corrected standard uptake maps based on these reference regions. Data projected to fsLR32K surface space are also included.\n\nAs younger individuals are commonly excluded from studies focused on neurodegeneration, our dataset aims to fill this gap, advancing work in tauopathies affecting non-geriatric populations.",
+  "creators": [
+    {
+      "fullName": "Boris Bernhardt",
+      "firstName": "Boris",
+      "lastName": "Bernhardt",
+      "roles": [
+        {
+          "value": "Contributor"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0001-9256-6041"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "PET"
+      }
+    },
+    {
+      "information": {
+        "value": "MRI"
+      }
+    }
+  ],
+  "version": "1.1",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC0"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "NIfTI",
+        "FUNCGII",
+        "SURFGII",
+        "MAT",
+        "TSV"
+      ],
+      "size": 3.29,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://osf.io/znt9d",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "name": {
+        "value": ""
+      },
+      "description": ""
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Canadian Institutes of Health Research",
+          "abbreviation": "CIHR"
+        },
+        {
+          "name": "Fonds de recherche du Quebec en sante",
+          "abbreviation": "FRQS"
+        },
+        {
+          "name": "Healthy Brains Healthy Lives",
+          "abbreviation": "HBHL"
+        },
+        {
+          "name": "Canadian Open Neuroscience Platform",
+          "abbreviation": "CONP"
+        },
+        {
+          "name": "SickKids Foundation",
+          "abbreviation": ""
+        },
+        {
+          "name": "Natural Sciences and Engineering Research Council",
+          "abbreviation": "NSERC"
+        },
+        {
+          "name": "Azrieli Centre for Autism Research of the Montreal Neurological Institute",
+          "abbreviation": "ACAR"
+        },
+        {
+          "name": "Brain Canada",
+          "abbreviation": ""
+        },
+        {
+          "name": "Helmholtz International BigBrain Analytics and Learning Laboratory",
+          "abbreviation": "HIBALL"
+        },
+        {
+          "name": "Canadian Research Chairs",
+          "abbreviation": "CRC"
+        },
+        {
+          "name": "Centre of Excellence in Epilepsy at the Neuro",
+          "abbreviation": "CEEN"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "[18F]MK6240"
+    },
+    {
+      "value": "PET"
+    },
+    {
+      "value": "MRI"
+    },
+    {
+      "value": "healthy"
+    },
+    {
+      "value": "control"
+    },
+    {
+      "value": "open data"
+    },
+    {
+      "value": "BIDS"
+    },
+    {
+      "value": "neuroimaging"
+    },
+    {
+      "value": "neuroinformatics"
+    },
+    {
+      "value": "tau"
+    },
+    {
+      "value": "tauopathy"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "157"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Montreal Neurological Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Montreal"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Boris Bernhardt, boris.bernhardt@mcgill.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
