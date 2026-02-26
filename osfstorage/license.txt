@@ -1,0 +1,32 @@
+License Notice
+
+Primary License:
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by/4.0/
+
+Additional Terms – Geographic Hosting, Redistribution Restriction, and Research Ethics Board Approval
+
+The permissions granted under the CC BY 4.0 license apply except as modified by the following Additional Terms. In the event of conflict between CC BY 4.0 and these Additional Terms, these Additional Terms shall prevail.
+
+1. Hosting Location Restriction
+Users may not host, store, mirror, cache, or otherwise make available this dataset, or any substantial portion of it, on computing infrastructure physically located outside of Canada.
+
+2. Redistribution Restriction
+Redistribution of the dataset (in whole or in part), including redistribution of modified or derivative versions, is permitted only if the redistributed materials are hosted exclusively on infrastructure located within Canada.
+
+3. No Extraterritorial Availability
+Users must not configure systems (e.g., mirrors, CDNs, public object storage buckets, global caches) that result in the dataset being served from outside Canada, even if the original storage is located in Canada.
+
+4. Permission for Exceptions
+Users who wish to host, redistribute, or serve the dataset from outside Canada must obtain explicit written permission from the dataset provider. Such permission may be granted or withheld at the provider’s discretion.
+
+5. No Effect on Other CC BY 4.0 Rights
+Except for the geographic hosting and redistribution restrictions stated above, all other rights and obligations under CC BY 4.0 remain unchanged and fully in effect.
+
+6. Research Ethics Board Approval
+Only research projects approved by a duly constituted Research Ethics Board may use this dataset for their studies.
+
+Attribution Requirement
+
+When using, adapting, or sharing the dataset within the permitted geographic scope, users must provide appropriate credit consistent with Section 3(a) of CC BY 4.0.
